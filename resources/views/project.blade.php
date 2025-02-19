@@ -2,7 +2,7 @@
 @section('title', 'Project Project')
 @section('content-title', 'Project')
 @section('isi1')
-<div class="col-md-10 text-dark d-flex overflow-auto" style="height:100vh;">
+
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-7 mt-3 ps-5">
